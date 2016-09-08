@@ -1,4 +1,7 @@
-#include <head>
+#include <stdio.h>
 
-void main(){
+int main(){
+    int n;
+    printf("hahaaha , first c program. n:%d\n", n);
+    return 0;
 }
